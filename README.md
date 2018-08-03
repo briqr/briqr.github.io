@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hi there! 
+I am a doctoral student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/). I am supervised by professor [Juergen Gall] (http://pages.iai.uni-bonn.de/gall_juergen/). I hold a Masters degree in computer science from the Univeristy of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
 
-You can use the [editor on GitHub](https://github.com/briqr/briqr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Areas of research
+Constrained optimization in CNNs, Weakly supervised learning, Semantic segmentation, Human pose estimation.  
 
-### Markdown
+### Publications
+  Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [CSPN](https://arxiv.org/abs/1807.09169), BMVC 2018.
+  [Online Robust Learning Using the Radon Point](https://1drv.ms/b/s!AkaKZSdGrfMlhDqSE09J1j47DkX9), MSc thesis, Univeristy of Bonn, 2017. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briqr/briqr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
