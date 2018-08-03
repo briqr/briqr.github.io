@@ -1,5 +1,5 @@
 ## Hi there! 
-I am a doctoral student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/). I am supervised by professor [Juergen Gall] (http://pages.iai.uni-bonn.de/gall_juergen/). I hold a Masters degree in computer science from the Univeristy of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
+I am a doctoral student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/). I am supervised by professor [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). I hold a Masters degree in computer science from the Univeristy of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
 
 
 ### Areas of research
