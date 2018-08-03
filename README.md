@@ -6,8 +6,8 @@ I am a doctoral student in machine learning and computer vision at the [Universi
 Constrained optimization in CNNs, Weakly supervised learning, Semantic segmentation, Human pose estimation.  
 
 ### Publications
-  Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [CSPN](https://arxiv.org/abs/1807.09169), BMVC 2018.
-  [Online Robust Learning Using the Radon Point](https://1drv.ms/b/s!AkaKZSdGrfMlhDqSE09J1j47DkX9), MSc thesis, Univeristy of Bonn, 2017. 
+ - Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [(CSPN)](https://arxiv.org/abs/1807.09169), BMVC 2018.
+  - [Online Robust Learning Using the Radon Point](https://1drv.ms/b/s!AkaKZSdGrfMlhDqSE09J1j47DkX9), MSc thesis, Univeristy of Bonn, 2017. 
 
 
 
