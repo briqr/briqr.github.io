@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Summary"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-header.overlay_image: Haifa.JPG
+overlay_image: Haifa.JPG
 
  
   - /about/
