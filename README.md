@@ -1,4 +1,4 @@
-<img src="https://github.com/briqr/briqr.github.io/blob/master/P1010391.JPG" alt="apprach" width="50%">
+<img src="https://lh3.googleusercontent.com/9hpuvGEjzXnrjHoSy5rFWAvaQX9J25W1kL_EHpb8oWyHvy7NTUDRB3JxvVSJMA7fbv1NYlkdhCe4kIY9qvzLlZZ4Ze_TFcCoc_YYtvEn2r_ZkQXguNlxqn4oYPkjQy5F1hoL5DpQooI=w1968-h856-no" alt="Haifa" width="50%">
 ## Hi there! 
 Since December 2017, I am a doctoral student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/). I am supervised by professor [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold a Masters degree in computer science from the Univeristy of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
 
