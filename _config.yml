@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+  # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -83,9 +83,9 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student, Computer science, University of Bonn"
   location         : "Computer Vision group<br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp Office 2.041<br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp Endenicher Allee 19a, 53115<br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp Bonn, Germany <br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp Office 2.041 <br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp Endenicher Allee 19a, 53115 <br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp Bonn, Germany <br/>"
   employer         :
   googlescholar    : 
   email            : briq@iai.uni-bonn.de

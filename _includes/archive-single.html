@@ -43,7 +43,6 @@
         {% elsif post.collection == 'publications' %}
           {%if post.venue != 'MSc thesis, University of Bonn' %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-            <p>Authors: <i>{{ post.Authors }}</i> </p>
             {% else %}
             <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
@@ -56,7 +55,19 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+    {% if post.image %} 
+    <div class="">
+      <img src= "{{ post.image | prepend: "/images/" | prepend: base_path }}"  alt="" width="30%">
+    </div>
+        {% endif %}
+    {% if post.Authors %} 
+    <p>Authors: <i>{{ post.Authors }}</i> </p>
+    {% endif %}
+
+  
+
+
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
