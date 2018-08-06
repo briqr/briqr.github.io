@@ -19,4 +19,4 @@ During my masters, I worked as a research assistant in machine learning in the [
 
 Areas of research
 ======
-Constrained optimization in CNNs, Weakly supervised learning, Semantic segmentation, Human pose estimation.
+Constrained optimization in neural networks for computer vision tasks, Weakly supervised learning, Semantic segmentation, Human pose estimation.
