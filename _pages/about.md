@@ -2,11 +2,10 @@
 permalink: /
 title: "About"
 excerpt: "About me"
+overlay_image: Haifa.JPG
 author_profile: true
 redirect_from: 
-header:
-  overlay_image: Haifa.JPG
-  caption: "Photo credit"
+
 
  
   - /about/
