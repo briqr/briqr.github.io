@@ -1,4 +1,7 @@
 {% include base_path %}
+ 
+
+{% capture img_path %}{{ "Haifa.JPG" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 
 {% if page.header.image contains "://" %}
   {% capture img_path %}{{ page.header.image }}{% endcapture %}
