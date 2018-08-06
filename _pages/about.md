@@ -4,7 +4,9 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-overlay_image: Haifa.JPG
+header:
+  overlay_image: overlay_image: Haifa.JPG
+  caption: "Photo credit"
 
  
   - /about/
