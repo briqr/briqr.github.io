@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
 header:
-  overlay_image: overlay_image: Haifa.JPG
+  overlay_image: Haifa.JPG
   caption: "Photo credit"
 
  
