@@ -18,6 +18,14 @@
   {% capture overlay_img_path %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% endif %}
 
+
+{% if page.overlay_image contains "://" %}
+  {% capture overlay_img_path %}{{ page.overlay_image }}{% endcapture %}
+{% elsif page.overlay_image %}
+  {% capture overlay_img_path %}{{ page.overlay_image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+{% endif %}
+
+
 {% if page.header.overlay_filter contains "rgba" %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
 {% elsif page.header.overlay_filter %}
