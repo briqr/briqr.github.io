@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 excerpt: "About me"
 header:
- overlay_image: Haifa.png
+ overlay_image: Haifa.jpg
 author_profile: true
 redirect_from: 
 
