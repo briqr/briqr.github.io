@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "PhD student, Computer Vision Group, University of Bonn"
 header:
  overlay_image: Haifa.jpg
 author_profile: true
