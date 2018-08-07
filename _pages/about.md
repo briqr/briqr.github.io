@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: ""
 header:
  overlay_image: Haifa.jpg
