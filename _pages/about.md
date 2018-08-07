@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 header:
  overlay_image: Haifa.jpg
-author_profile: false
+author_profile: true
 redirect_from: 
 
 
