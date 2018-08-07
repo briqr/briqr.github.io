@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: ""
-excerpt: "PhD student, Computer Vision Group, University of Bonn"
+title: "About"
+excerpt: ""
 header:
  overlay_image: Haifa.jpg
-author_profile: true
+author_profile: false
 redirect_from: 
 
 
