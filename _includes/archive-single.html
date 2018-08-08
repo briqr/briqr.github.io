@@ -51,9 +51,9 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }} <img src= "{{ post.image | prepend: "/images/" | prepend: base_path }}"  alt="" width="20%"></p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }} </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p><img src= "{{ post.image | prepend: "/images/" | prepend: base_path }}"  alt="" width="20%"> </p>
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p> </p>
     {% endif %}
     {% if post.image %} 
     <div class="">
