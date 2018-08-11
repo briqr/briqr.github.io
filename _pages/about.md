@@ -18,6 +18,6 @@ Hi there! Since Dec 2017, I am a PhD student in machine learning and computer vi
 During my masters, I worked as a research assistant in machine learning at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/).
 
 
-Areas of research
+Research interests
 ======
 Constrained optimization in neural networks for computer vision tasks, Weakly supervised learning, Semantic segmentation, Human pose estimation.
