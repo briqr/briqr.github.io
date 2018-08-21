@@ -14,7 +14,7 @@ redirect_from:
 ---
 
   
-Hi there! Since Dec 2017, I am a PhD student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/), where I am advised by professor [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in [computer science](https://www.informatik.uni-bonn.de/en) from the University of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
+Hi there! I am a PhD student in machine learning and computer vision at the [University of Bonn](https://www.uni-bonn.de/), where I am advised by professor [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in [computer science](https://www.informatik.uni-bonn.de/en) from the University of Bonn, and a BSc in computer and software engineering from the [Technion](https://www.technion.ac.il/en). 
 During my masters, I worked as a research assistant in machine learning at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/).
 
 
