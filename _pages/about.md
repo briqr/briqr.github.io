@@ -20,4 +20,4 @@ During my masters, I worked as a research assistant in machine learning at [Frau
 
 Research interests
 ======
-Weakly supervised semantic segmentation, Human pose estimation, learning using constraints for computer vision tasks. 
+Learning using constraints for computer vision tasks, Weakly supervised semantic segmentation, Human pose estimation,
