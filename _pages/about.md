@@ -22,6 +22,3 @@ Research interests
 ======
 Learning using constraints for computer vision tasks, Weakly supervised semantic segmentation and Human pose estimation. 
 
-Master thesis co-supervision
-======
-I have few topics to offer in the area of weakly supervised semantic segmentation and human pose estimation. If you are a registered student at the university of Bonn, feel free to get in touch.
