@@ -24,4 +24,4 @@ Learning using constraints for computer vision tasks, Weakly supervised semantic
 
 Master thesis co-supervision
 ======
-Topics co-supervised by me include weakly-supervised semantic segmentation and human pose estimation, [get in touch](http://pages.iai.uni-bonn.de/gall_juergen/) if you are interested and are a registered student at the University of Bonn. 
+Topics co-supervised by me include weakly-supervised semantic segmentation and human pose estimation, please feel free to [get in touch](http://pages.iai.uni-bonn.de/gall_juergen/) if you are interested and are a registered student at the University of Bonn. 
