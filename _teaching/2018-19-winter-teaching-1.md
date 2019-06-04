@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant in computer vision"
+title: "Teaching assistant in MA-INF 2201-computer vision"
 collection: teaching
 type: "Graduate course"
 venue: "University of Bonn,CS"
