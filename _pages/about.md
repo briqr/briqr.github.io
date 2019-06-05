@@ -19,7 +19,7 @@ Hi there! I am a PhD student in computer vision and machine learning at the [Uni
 
 News
 ======
-Starting from August, I will be interning at Facebook Reality Labs (Oculus) for six months, in Sausalito, CA. 
+Starting from August 2019, I will be interning at Facebook Reality Labs (Oculus), Sausalito, CA  for six months.
 
 Research interests
 ======
