@@ -24,7 +24,3 @@ Starting from August 2019, I will be working as a Research Intern at Facebook Re
 Research interests
 ======
 Learning using constraints for computer vision tasks, Weakly supervised semantic segmentation and Human pose estimation. 
-
- <!--- Master thesis co-supervision
-======
-Topics co-supervised by me include weakly-supervised semantic segmentation and human pose estimation, please feel free to get in touch if you are interested.  --->
