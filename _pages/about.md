@@ -20,7 +20,7 @@ I am a PhD student in computer vision and machine learning at the [University of
 
 Research interests
 ======
-Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal Prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Adversarial Generative models, Robustness against adversarial attacks, Learning representations, Bias elimination in computer vision algorithms. 
+Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal Prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Generative Adversarial models, Robustness against adversarial attacks, Learning representations, Bias elimination in computer vision algorithms. 
 
 Master's students
 ======
