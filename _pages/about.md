@@ -22,3 +22,7 @@ Research interests
 ======
 Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal Prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Adversarial Generative models, Robustness against adversarial attacks, Learning representations, Bias elimination in computer vision algorithms. 
 
+Master's students
+======
+
+Yifei Zhang: [Synthesizing Human Pose from Caption](https://arxiv.org/abs/2005.00340)
