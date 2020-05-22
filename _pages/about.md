@@ -25,4 +25,4 @@ Human pose estimation, Weakly supervised and semi-supervised learning, Optimizat
 Master's students
 ======
 
-Yifei Zhang: [Synthesizing Human Pose from Caption](https://arxiv.org/abs/2005.00340)
+Yifei Zhang: [Synthesizing Human Pose from Captions](https://arxiv.org/abs/2005.00340)
