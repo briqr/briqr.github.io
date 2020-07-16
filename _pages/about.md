@@ -29,4 +29,4 @@ Yifei Zhang, thesis: [Adversarial Synthesis of Human Pose from Text](https://arx
 
 Research Internships:
 ======
-In 2019-2020 I joined the Human Body Tracking team at Facebook Reality Labs Sausalito, CA for six months and worked on differentiable rendering and optical flow. 
+In 2019-2020 I joined the Human Body Tracking team at Facebook Reality Labs in Sausalito, CA for six months, and worked on differentiable rendering and optical flow. 
