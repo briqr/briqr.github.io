@@ -20,7 +20,7 @@ I am a PhD student in computer vision and machine learning at the [University of
 
 Research interests
 ======
-Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal Prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Generative Adversarial models, Robustness against adversarial attacks, Learning representations, Bias elimination in computer vision algorithms. 
+Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Generative adversarial models, Robustness against adversarial attacks, Representation learning, Bias elimination in computer vision algorithms. 
 
 Master's students
 ======
@@ -29,4 +29,4 @@ Yifei Zhang, thesis: [Adversarial Synthesis of Human Pose from Text](https://arx
 
 Research Internships:
 ======
-In 2019-2020 I joined the Human Body Tracking team at Facebook Reality Labs in Sausalito, CA for six months, and worked on differentiable rendering and optical flow. 
+In August 2019, I joined the Human Body Tracking team at Facebook Reality Labs as a research intnern for six months. During this time, I worked on differentiable rendering and optical flow. 
