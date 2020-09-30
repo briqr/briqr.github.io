@@ -29,4 +29,4 @@ Yifei Zhang, thesis: [Adversarial Synthesis of Human Pose from Text](https://arx
 
 Research Internships:
 ======
-August 2019-Jan 2020: I worked on differentiable rendering and optical flow for body tracking. 
+August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
