@@ -25,7 +25,7 @@ Human pose estimation, Weakly supervised and semi-supervised learning, Optimizat
 Master's students
 ======
 
-Yifei Zhang, thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
+[Yifei Zhang](https://www.linkedin.com/in/yifei-zhang-2565811a9/), thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
 
 Research Internships:
 ======
