@@ -27,6 +27,6 @@ Master's students
 
 [Yifei Zhang](https://www.linkedin.com/in/yifei-zhang-2565811a9/), thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
 
-Research Internships:
+Research internships:
 ======
 August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
