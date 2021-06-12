@@ -30,6 +30,6 @@ Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable renderin
 
 Master's students
 ======
-Pratika Kochar, thesis in progress. 
+Pratika Kochar, Multi-Person Pose Generation from Captions.
 
 [Yifei Zhang](https://www.linkedin.com/in/yifei-zhang-2565811a9/), thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
