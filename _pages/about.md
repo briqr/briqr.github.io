@@ -25,7 +25,7 @@ Human pose estimation, Weakly supervised and semi-supervised learning, Optimizat
 
 Research internships:
 ======
-Facebook Reality Labs, Sausalito, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
+Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
 
 
 Master's students
