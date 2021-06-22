@@ -25,7 +25,7 @@ Human pose estimation, Weakly supervised and semi-supervised learning, Optimizat
 
 Research internships:
 ======
-Incoming applied science intern at Amazon Go, August 2021.
+Incoming applied scientist intern at Amazon Go, August 2021.
 
 
 Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
