@@ -33,7 +33,7 @@ Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable renderin
 
 Master's students
 ======
-Chang Chun-Peng, thesis in progress. 
+Chun-Peng Chang, thesis in progress. 
 
 Ragith Ayyappan Kutty, thesis in progress. 
 
