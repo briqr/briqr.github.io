@@ -6,5 +6,5 @@ date: 2021-July-05
 paperurl: 'https://arxiv.org/abs/2107.01869'
 venue: ''
 Authors: R. Briq, P. Kochar, J. Gall
-image: 'adversarial_multiperson_shape_approach.png'
+image: 'adversarial_multiperson_shape_approach.pdf'
 ---
