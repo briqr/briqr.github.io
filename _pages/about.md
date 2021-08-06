@@ -27,11 +27,7 @@ Research internships:
 ======
 Applied scientist intern at Amazon Go, August 2021.
 
-I am working with Chris Broaddus, Chuhang Zou and Rohun Tripathi. 
-
 Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
-
-I worked with Christoph Lassner, Zhaoyang Lv and Carsten Stoll. 
 
 Master's students
 ======
