@@ -15,7 +15,7 @@ redirect_from:
 
 About
 ======  
-I am a PhD student in computer science at the [University of Bonn](https://www.uni-bonn.de/), advised by professor Dr. [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in computer science from the University of Bonn, and a BSc in computer and software engineering from the Technion. Currently, I am interning at Amazon where my research focuses on computer vision technolonies for [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc). 
+I am a PhD student in computer science at the [University of Bonn](https://www.uni-bonn.de/), advised by professor Dr. [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in computer science from the University of Bonn, and a BSc in computer and software engineering from the Technion. Currently, I am interning at Amazon where my research focuses on computer vision for [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc) technologies. 
 
 
 Research interests
