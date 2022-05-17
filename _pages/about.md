@@ -35,6 +35,6 @@ Chun-Peng Chang. Thesis: Synthesizing 3D Human Meshes from Text.
 
 Ragith Ayyappan Kutty. Thesis: Multi-Person Tracking Using Generative Models.
 
-Pratika Kocha. Thesis: Multi-Person Pose Generation from Captions.
+Pratika Kochar. Thesis: Multi-Person Pose Generation from Captions.
 
 Yifei Zhang. Thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
