@@ -31,10 +31,10 @@ Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable renderin
 
 Master's students
 ======
-Chun-Peng Chang, thesis in progress. 
+Chun-Peng Chang. Thesis: Synthesizing 3D Human Meshes from Text.
 
-Ragith Ayyappan Kutty, thesis in progress. 
+Ragith Ayyappan Kutty. Thesis: Multi-Person Tracking Using Generative Models.
 
-Pratika Kochar, thesis: Multi-Person Pose Generation from Captions.
+Pratika Kocha. Thesis: Multi-Person Pose Generation from Captions.
 
-[Yifei Zhang](https://www.linkedin.com/in/yifei-zhang-2565811a9/), thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
+Yifei Zhang. Thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020. 
