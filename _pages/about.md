@@ -15,7 +15,7 @@ redirect_from:
 
 About
 ======  
-I am a PhD student in computer science at the [University of Bonn](https://www.uni-bonn.de/), advised by professor Dr. [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in computer science from the University of Bonn, and a BSc in computer and software engineering from the Technion. Currently, I am interning at Amazon where my research focuses on finding computer vision solutions for [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc). 
+I am a PhD student in computer science at the [University of Bonn](https://www.uni-bonn.de/), advised by professor Dr. [Juergen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). I hold an MSc degree in computer science from the University of Bonn, and a BSc in computer and software engineering from the Technion.
 
 
 Research interests
@@ -25,7 +25,7 @@ Human pose estimation, Weakly supervised and semi-supervised learning, Optimizat
 
 Research internships:
 ======
-Applied scientist intern at Amazon Go, August 2021. 
+Applied scientist intern at Amazon Go, August 2021-August 2022. 
 
 Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
  
