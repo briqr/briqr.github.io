@@ -28,3 +28,13 @@ Research internships:
 Applied scientist intern at Amazon Go, August 2021-August 2022. My work focused on synthesizing conditional human motion data.
 
 Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
+
+Master's students
+======
+Chun-Peng Chang. Thesis: Synthesizing 3D Human Meshes from Text.
+
+Ragith Ayyappan Kutty. Thesis: Multi-Person Tracking Using Generative Models.
+
+Pratika Kochar. Thesis: Multi-Person Pose Generation from Captions.
+
+Yifei Zhang. Thesis: [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340). Won the best master thesis award in DAGM Young Researchers' Forum 2020.
