@@ -27,7 +27,7 @@ Research internships:
 ======
 Applied scientist intern at Amazon Go, August 2021-August 2022. My work focused on synthesizing conditional human motion data.
 
-Research intern Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
+Research intern at Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
 
 Master's students
 ======
