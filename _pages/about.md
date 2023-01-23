@@ -15,7 +15,7 @@ redirect_from:
 
 About
 ======  
-PhD student in computer science in the computer vision group lead by professor Juergen Gall, University of Bonn.
+PhD student in computer science in the computer vision group headed by professor Juergen Gall, University of Bonn.
 
 MSc in computer science from the University of Bonn.
 
