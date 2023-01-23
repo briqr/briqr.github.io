@@ -19,7 +19,7 @@ PhD student in computer science in the computer vision group lead by professor J
 
 MSc in computer science from the University of Bonn.
 
-BSc in computer and software engineering from the technion. 
+BSc in computer and software engineering from the Technion. 
 
 
 Research interests
