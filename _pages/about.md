@@ -17,9 +17,9 @@ About
 ======  
 PhD student in computer science in the computer vision group headed by professor Juergen Gall, University of Bonn.
 
-MSc in computer science from the University of Bonn.
+MSc in computer science, University of Bonn.
 
-BSc in computer and software engineering from the Technion. 
+BSc in computer and software engineering, Technion. 
 
 
 Research interests
