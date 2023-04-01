@@ -21,7 +21,7 @@ Feb 2021-Aug 2022
 
 Aug 2022-March 2023
 
-During these dates I worked as a PhD student in computer science at the University of Bonn. Since April I am self-funded.
+During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 I am self-funded.
 
 MSc in computer science, University of Bonn.
 
