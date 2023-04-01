@@ -15,7 +15,13 @@ redirect_from:
 
 About
 ======  
-PhD student in computer science in the computer vision group headed by professor Juergen Gall, University of Bonn.
+Dec 2017-Aug 2019
+
+Feb 2021-Aug 2022
+
+Aug 2022-March 2023
+
+During these dates I worked as a PhD student in computer science at the University of Bonn. Since April I am self-funded.
 
 MSc in computer science, University of Bonn.
 
