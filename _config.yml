@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://briqr.github.io # briqr.github.ip the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "briqr/briqr.github.io"
-#teaser                   : "Haifa.JPG"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+#teaser                  :   # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Rania Briq"
   avatar           : "profile.png"
-  bio              : "PhD student, Computer science, University of Bonn"
-  location         : "Computer Vision group<br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp Office 2.041 <br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp Friedrich-Hirzebruch-Allee 8 <br/>
-                      &nbsp&nbsp&nbsp&nbsp&nbsp 53115, Bonn <br/>
+  bio              : "Part time PhD student, Computer science, University of Bonn"
+  location         : "<br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp  <br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp <br/>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp Bonn <br/>
                       &nbsp&nbsp&nbsp&nbsp&nbsp Germany"
   employer         :
   googlescholar    : 
