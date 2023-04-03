@@ -15,7 +15,7 @@ redirect_from:
 
 About
 ======  
-Dec 2017-Aug 2019 doctoral studies.
+Dec 2017-Aug 2019 PhD student.
 
 Feb 2021-Aug 2022
 
