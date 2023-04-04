@@ -21,7 +21,7 @@ Feb 2021-Aug 2022
 
 Aug 2022-March 2023
 
-During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 my funding was cut, and I continue to work on my PhD part-time alongside working as a course instructor for Undergrad CS courses.
+During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 my funding was cut, and I continue to work on my PhD part-time alongside working as a course instructor for Undergrad CS courses (AI and Computer Graphics).
 
 MSc in computer science, University of Bonn.
 
