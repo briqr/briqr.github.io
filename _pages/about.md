@@ -15,19 +15,15 @@ redirect_from:
 
 About
 ======  
-Dec 2017-Aug 2019 PhD student.
-
-Feb 2021-Aug 2022
-
-Aug 2022-March 2023
+Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-March 2023. **PhD** student.
 
 During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 my funding was cut, and I continue to work on my PhD part-time alongside working as a course instructor for Undergrad CS courses (AI and Computer Graphics).
 
-Meanwhile, I am ready for the job market for an interesting research position in AI, CV, ML.
+Meanwhile, I am ready for the job market for interesting research positions in AI, CV, ML.
 
-MSc in computer science, University of Bonn.
+**MSc** in computer science, University of Bonn.
 
-BSc in computer and software engineering, Technion. 
+**BSc** in computer and software engineering, Technion. 
 
 
 Research interests
