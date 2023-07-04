@@ -5,6 +5,5 @@ excerpt: 'This work focuses on synthesizing human poses from human-level text de
 date: 2020-May-04
 paperurl: 'https://arxiv.org/abs/2005.00340'
 venue: 'German Conference on Pattern Recognition (GCPR)'
-Authors: Y. Zhang, R. Briq, J. Tanke, J. Gall
 image: 'adversarial_syn_approach.png'
 ---
