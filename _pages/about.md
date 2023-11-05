@@ -15,6 +15,8 @@ redirect_from:
 
 About
 ======  
+Nov 2023-Present: **Scientific researcher** at the Applied machine learning lab, part of the HELMHOLTZ AI team headed by Dr. Stefan Kesselheim, Juelich Supercomputing Center.
+
 Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-March 2023. **PhD** student in computer science, computer vision.
 
 During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 I am self-funded, and I continue to work on my PhD part-time alongside working as a course instructor for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
