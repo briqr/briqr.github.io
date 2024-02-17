@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Rania Briq"
   avatar           : "profile.png"
-  bio              : "Part time PhD student, Computer science, University of Bonn"
+  bio              : "PhD, Computer science, Bonn university. Scientific researcher at Helmholtz AI LAB, Juelich"
   location         : "<br/>
                       &nbsp&nbsp&nbsp&nbsp&nbsp  <br/>
                       &nbsp&nbsp&nbsp&nbsp&nbsp <br/>
@@ -89,7 +89,7 @@ author:
                       &nbsp&nbsp&nbsp&nbsp&nbsp Germany"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=qurheq8AAAAJ&hl=en&authuser=2
-  email            : briq@iai.uni-bonn.de
+  email            : r.briq@fz-juelich.de
   #uri              :
   #bitbucket        :
   #codepen          :
