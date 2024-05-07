@@ -12,6 +12,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+At Juelich Supercomputing Center, we are on the lookout for motivated interns interested in writing their master thesis in AI. 
 
 About
 ======  
