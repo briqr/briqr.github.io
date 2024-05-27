@@ -18,7 +18,7 @@ About
 ======  
 Nov 2023-Present: **Scientific researcher** at the Applied machine learning lab, part of the HELMHOLTZ AI team, Juelich Supercomputing Center.
 
-Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision.
+Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, left unfinished. 
 
 During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 I also worked as a course instructor for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
 
