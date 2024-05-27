@@ -16,11 +16,13 @@ At Juelich Supercomputing Center, we are on the lookout for motivated interns in
 
 About
 ======  
-Nov 2023-Present: **Scientific researcher** at the Applied machine learning lab, part of the HELMHOLTZ AI team, Juelich Supercomputing Center.
+Nov 2023-Present: **Research scientist** at the Applied machine learning lab of HELMHOLTZ AI, Juelich Supercomputing Center. 
+I am participating in the nxtaim project which is focused on building generative models. 
+Feb 2022-Present: **Course instructor** for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
 
-Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, left unfinished. 
+Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, it is left unfinished. 
 
-During these dates I worked as a PhD student in computer science at the University of Bonn. Since April 2023 I also worked as a course instructor for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
+During these dates I worked as a PhD student in computer science at the University of Bonn. 
 
 **MSc** in computer science, University of Bonn.
 
@@ -29,7 +31,13 @@ During these dates I worked as a PhD student in computer science at the Universi
 
 Research interests
 ======
-Human pose estimation, Weakly supervised and semi-supervised learning, Optimization in CNNs using constraints, Ordinal prediction for sets, Semantic segmentation, Tracking, Optical flow, Scene flow, Generative adversarial models, Robustness against adversarial attacks, Representation learning, Bias elimination in computer vision algorithms. 
+In my PhD, I worked on 
+- Weakly supervised semantic segmentation using constraints
+- Human Post estimation and dabbled with ordinal prediction for sets in the process
+- Optical flow and scene flow for human body tracking during my internships at facebook
+- Generating human poses conditioned on text
+- Generating human motion conditioned on multiple actions while internting at Amazon, followed up by scene constrained generation. 
+  
 
 
 Research internships:
