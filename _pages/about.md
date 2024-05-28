@@ -12,12 +12,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-At Juelich Supercomputing Center, we are on the lookout for motivated interns interested in writing their master thesis in AI. 
 
 About
 ======  
 Nov 2023-Present: **Research scientist** at the Applied machine learning lab of HELMHOLTZ AI, Juelich Supercomputing Center. 
-I am participating in the nxtaim project which is focused on building generative models. 
+I am participating in the nxtaim project which is focused on building generative models for autonomous driving. 
+
 Feb 2022-Present: **Course instructor** for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
 
 Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, it is left unfinished. 
