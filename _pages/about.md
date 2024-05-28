@@ -22,8 +22,6 @@ Feb 2022-Present: **Course instructor** for undergrad CS courses (AI, Computer G
 
 Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, it is left unfinished. 
 
-During these dates I worked as a PhD student in computer science at the University of Bonn. 
-
 **MSc** in computer science, University of Bonn.
 
 **BSc** in computer and software engineering, Technion. 
