@@ -20,7 +20,7 @@ I am participating in the nxtaim project which is focused on building generative
 
 Feb 2022-Present: **Course instructor** for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
 
-Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. Due to circumstances and personal reasons, it is left unfinished. 
+Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. 
 
 **MSc** in computer science, University of Bonn.
 
@@ -29,7 +29,7 @@ Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in comp
 
 Research interests
 ======
-In my PhD, I worked on 
+During my PhD, I worked on 
 - Weakly supervised semantic segmentation using constraints
 - Human Post estimation and dabbled with ordinal prediction for sets in the process
 - Optical flow and scene flow for human body tracking during my internships at facebook
