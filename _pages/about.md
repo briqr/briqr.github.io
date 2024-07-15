@@ -20,7 +20,7 @@ I am participating in the nxtaim project which is focused on building generative
 
 Feb 2022-Present: **Course instructor** for undergrad CS courses (AI, Computer Graphics, Data Structures and Algorithms).
 
-Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision. 
+Dec 2017-Aug 2019, Feb 2021-Aug 2022, Aug 2022-Dec 2023. **PhD** student in computer science, computer vision, University of Bonn.
 
 **MSc** in computer science, University of Bonn.
 
