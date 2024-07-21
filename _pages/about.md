@@ -32,10 +32,6 @@ Research internships:
 
 **Research intern** at Facebook Reality Labs, August 2019-Jan 2020: I worked on differentiable rendering and optical flow for human body tracking. 
 
-Master's thesis
-======
-Online Robust Learning Using the Radon (center) Point. I proposed a method for aggregating multiple models that are trained independently using multiple data streams in a federated learning setting. Earlier works rely on simply averaging the models using the arithmetic mean, which fails when the data is noisy. The proposed method achieved superior error bounds both in theory and practice in the presence of outliers in the training data.
-
 Research interests
 ======
 During my PhD, I worked on 
@@ -45,6 +41,11 @@ During my PhD, I worked on
 - Generating human poses conditioned on text
 - Generating human motion conditioned on multiple actions while internting at Amazon, followed up by scene constrained generation. 
   
+
+Master's thesis
+======
+Online Robust Learning Using the Radon (center) Point. I proposed a method for aggregating multiple models that are trained independently using multiple data streams in a federated learning setting. Earlier works rely on simply averaging the models using the arithmetic mean, which fails when the data is noisy. The proposed method achieved superior error bounds both in theory and practice in the presence of outliers in the training data.
+
 
 Master's students
 ======
