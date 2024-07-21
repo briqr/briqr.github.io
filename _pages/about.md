@@ -37,7 +37,7 @@ Research interests
 During my PhD, I worked on 
 - Weakly supervised semantic segmentation using constraints
 - Human Post estimation and dabbled with ordinal prediction for sets in the process
-- Optical flow and scene flow for human body tracking during my internships at facebook
+- Optical flow and scene flow for human body tracking during my internship at Facebook Reality Labs
 - Generating human poses conditioned on text
 - Generating human motion conditioned on multiple actions while internting at Amazon, followed up by scene constrained generation. 
   
