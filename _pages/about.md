@@ -40,7 +40,7 @@ During my PhD, I worked on
 - Optical flow and scene flow for human body tracking during my internship at Facebook Reality Labs
 - Generating human poses conditioned on text
 - Generating human motion conditioned on multiple actions while internting at Amazon, followed up by scene constrained generation. 
-  
+- Weakly supervised semantic segmentation using object size constraints.  
 
 Master's thesis
 ======
